@@ -63,7 +63,7 @@ Os possíveis cenários devem ser cobertos e terem soluções implementadas. Nã
 
 O layout proposto para essa calculadora pode ser visto no link abaixo.
 
-[Link para o layout](https://www.figma.com/file/) - **Lembrando que a sua aplicação deve seguir o layout pixel by pixel**
+[Link para o layout](https://www.figma.com/proto/416G79R57F4som5jvuZgxo/simule-sua-antecipa%C3%A7%C3%A3o?scaling=scale-down-width&node-id=101%3A215&hide-ui=1) - **Lembrando que a sua aplicação deve seguir o layout pixel by pixel**
 
 ## API
 
