@@ -2,7 +2,7 @@
 
 Antes de começar, leia a nossa [página sobre cultura](https://izap.com.br/quem-somos.html) para entender um pouco sobre o que nós priorizamos no desenvolvimento e **faça o seu melhor, pois iremos avaliar o teste como se fosse seu melhor esforço** ;)
 
-Envie o resultado do seu desafio para marcos.azevedo@izap.com.br (ele pode ser open source!).
+Envie o resultado do seu desafio para challenges.frontend@izap.com.br (ele pode ser público!).
 Se possível, faça deploy da sua aplicação em algum serviço como [Netlify](https://www.netlify.com/), [Heroku](https://heroku.com/) ou qualquer outro de sua preferência.
 
 ## Objetivo
